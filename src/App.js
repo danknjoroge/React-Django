@@ -6,7 +6,6 @@ import Login from './components/Login'
 import StudentDashboard from './components/StudentDashboard'
 import TmDashboard from './components/TmDashboard'
 
-// import {SPrivateRoute, TPrivateRoute} from './private/PrivateRoute'
 import './App.css';
 
 function App() {
